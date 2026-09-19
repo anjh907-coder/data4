@@ -1,0 +1,6 @@
+{
+  "name": "제주 재난 피해 예측기 & kNN AI 교실",
+  "description": "초등학생을 위한 결정트리 복습, kNN 알고리즘 체험 게임, 제주 재난 데이터 워크시트, 피해 예측 시뮬레이터 및 제주 방재 히어로 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
